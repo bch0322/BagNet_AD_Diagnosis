@@ -1,1 +1,1 @@
-# Bag_of_Local_Feature_Model
+# Bag of Local Feature Model for AD diagnosis

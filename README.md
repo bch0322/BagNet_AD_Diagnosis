@@ -1,1 +1,1 @@
-"# Bag_of_Local_Feature_Model" 
+# Bag_of_Local_Feature_Model
